@@ -2,5 +2,5 @@
   <!-- Begin Default Content REMOVE THIS -->
   <h1>Congratulations</h1>
   This is your new Page: HelloWorld
-  <!-- End Default Content REMOVE THIS -->
+  <apex:sectionHeader title="Customer Information" subtitle="Customer Details"/>
 </apex:page>
